@@ -5,5 +5,5 @@ This repository contains the code for a drum set website where the instruments c
 
 The code is written in HTML, CSS and JS without the use of any library, framework etc
 
-Try it out from below:
+Try it out from yourself:
 https://bhuvankumarms.github.io/Drum_Set/
